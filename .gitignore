@@ -4,7 +4,7 @@ node_modules/
 data/
 model.pth
 TODO
-__pycache__/
+src/__pycache__
 # Compiled source #
 ###################
 *.com
