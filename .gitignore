@@ -1,10 +1,12 @@
 # Don't track content of these folders
 node_modules/
 .vscode/
-data/
+
 model.pth
 TODO
 src/__pycache__
+src/data
+src/model.pth
 # Compiled source #
 ###################
 *.com
